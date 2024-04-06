@@ -6,8 +6,7 @@
         "distDir": "../dist"
     },
     "package": {
-        "productName": "desktop-app-template",
-        "version": "0.1.0"
+        "productName": "desktop-app-template"
     },
     "tauri": {
         "allowlist": {
