@@ -12,6 +12,20 @@
         "allowlist": {
             "all": false
         },
+        "cli": {
+            "description": "",
+            "longDescription": "",
+            "beforeHelp": "",
+            "afterHelp": "",
+            "args": [
+                {
+                    "name": "theme",
+                    "takesValue": true,
+                    "multiple": false,
+                    "possibleValues": ["dark", "light"]
+                }
+            ]
+        },
         "bundle": {
             "active": true,
             "category": "DeveloperTool",
