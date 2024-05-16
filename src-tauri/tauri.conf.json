@@ -70,6 +70,7 @@
         },
         "windows": [
             {
+                "visible": false,
                 "fullscreen": false,
                 "height": 600,
                 "resizable": true,
